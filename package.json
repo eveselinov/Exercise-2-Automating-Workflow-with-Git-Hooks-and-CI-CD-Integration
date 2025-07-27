@@ -1,0 +1,34 @@
+{
+  "name": "exercise-2-automating-workflow-with-git-hooks-and-ci-cd-integration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "scripts": {
+  "test": "jest",
+  "format": "prettier --write .",
+  "format:check": "prettier --check ."
+}
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eveselinov/Exercise-2-Automating-Workflow-with-Git-Hooks-and-CI-CD-Integration.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eveselinov/Exercise-2-Automating-Workflow-with-Git-Hooks-and-CI-CD-Integration/issues"
+  },
+  "homepage": "https://github.com/eveselinov/Exercise-2-Automating-Workflow-with-Git-Hooks-and-CI-CD-Integration#readme",
+  "devDependencies": {
+    "jest": "^30.0.5",
+    "prettier": "^3.6.2"
+  }
+}
+"scripts": {
+  "test": "jest",
+  "format": "prettier --write .",
+  "format:check": "prettier --check ."
+}
